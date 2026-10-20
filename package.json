@@ -1,0 +1,15 @@
+{
+  "name": "tiktok-roblox-bridge",
+  "version": "1.0.0",
+  "description": "Sends TikTok LIVE comments to a Roblox game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "tiktok-live-connector": "^2.0.0"
+  }
+}
